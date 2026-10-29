@@ -24,6 +24,8 @@ First, the sensors and cameras collect information about the surroundings. AI sy
 Example: Companies such as Tesla and Waymo develop vehicles that use AI-based technologies to assist with or perform driving tasks. However, their capabilities and the level of human supervision required differ.
 
 AI improves driving assistance, traffic management, and object detection. Nevertheless, self-driving technology still faces challenges such as unpredictable road conditions, bad weather, and unexpected human behavior. Therefore, appropriate testing, safety systems, and human supervision where required are essential.
+## PICTURE
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/74aa67cc-a905-4236-b8aa-b40b80e7fce4" />
 
 ## RESULT
 
